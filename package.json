@@ -1,0 +1,16 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "scrap credit card promo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./solution.js"
+  },
+  "author": "Aldo Prakoso",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
